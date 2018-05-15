@@ -26,7 +26,7 @@ import PlaygroundSupport
      Only pictures 1 and 2 will display the Hilbert Curve
  */
 //Index of the image to be played
-var image = /*#-editable-code image*/4/*#-end-editable-code*/
+var image = /*#-editable-code image*/2/*#-end-editable-code*/
 //Color of the fractal lines
 var curveColor = /*#-editable-code color*/#colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0)/*#-end-editable-code*/
 /*:
