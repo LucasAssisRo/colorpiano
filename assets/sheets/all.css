@@ -1,0 +1,137 @@
+body {
+	background: black;
+	background-image: url(../img/big_logo.svg);
+	background-size: 45%;
+	background-repeat: no-repeat;
+	background-position: 32px 32px;
+	height: 100vh;
+}
+
+a {
+	color: black;
+}
+
+i {
+	border-radius: 5px;
+	padding: 5px;
+	color: white;
+	font-size: 40px; 
+	margin: 10px;
+}
+
+i:hover {
+	background-color: #FF7500;
+}
+
+::selection {
+	color: black;
+}
+
+
+.main {
+	padding-top: 25vh;
+	height: 90vh;
+}
+
+.main-title {
+	font-size: 65px; 
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
+	font-weight: 700; 
+	color: white;
+	text-align: right;
+}
+
+.main-subtitle {
+	font-size: 35px; 
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
+	font-weight: 100; 
+	color: gray;
+	text-align: right;
+}
+
+.main-button{
+	margin-top: 25vh;
+	display: block;
+	text-align: right;
+	width: 275px; 
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
+	color: white;
+	float: right;
+}
+
+
+.footer {
+	text-align: right;
+	height: 10vh;
+}
+
+
+@media screen and (max-width: 560px) {
+	body {
+
+		background-size: 55%;
+		background-repeat: no-repeat;
+		background-position: 50% 43%;
+	}
+
+	.main {
+		padding-top: 48px;
+	}
+
+	.main-title {
+		font-size: 35px; 
+		text-align: center;
+	}
+
+	.main-subtitle {
+		font-size: 20px; 
+		text-align: center;
+	}
+
+	.main-button{
+		width: 180px; 
+		margin: 56vh auto 0;
+		float: none;
+	}
+	.footer {
+		text-align: center;
+	}
+}
+
+@media screen and (min-width: 560px) and (max-width: 850px) {
+	body {
+		background-size: 34vw;
+		background-repeat: no-repeat;
+		background-position: 5vw 12vh;
+	}
+
+	i {
+		border-radius: 5px;
+		color: white;
+		font-size: 30px; 
+	}
+
+	.main {
+		padding-top: 25vh;
+		height: 85vh;
+	}	
+
+	.main-title {
+		font-size: 35px; 
+	}
+
+	.main-subtitle {
+		font-size: 20px; 
+	}
+
+	.main-button{
+		width: 130px; 
+		margin: 25vh auto 0;
+		float: right;
+	}
+
+	.footer {
+		height: 5vh;
+	}
+}
+
