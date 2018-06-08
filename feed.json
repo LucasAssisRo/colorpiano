@@ -1,0 +1,34 @@
+{
+    "documents": [ {
+            "title": "Color Piano",
+            "overviewSubtitle": "Transform images into music",
+            "description": "Introduction to concepts like fractals, interpolation and sound frequencies.",
+	    "difficultyLevel": "beginner",
+            "contentIdentifier": "io.github.lucasassisro.ColorPiano",
+            "contentVersion": "1.0",
+	    "sha512": "2816db16f1542e3b5bfd18c87bd618a15c1698a9b35345718ea6ba8b020b4c6b31e53b539e4c2697cfb4f2a040e409eea59a146cfd352fb190dff17686c94251",
+            "url": "https://github.com/LucasAssisRo/ColorPiano/files/2021746/color-piano.playgroundbook.zip",
+            "publishedDate": "2018-05-15T13:00:00+00:00",
+            "lastUpdatedDate": "2018-05-15T13:00:00+00:00",
+            "thumbnailURL": "../color-piano/thumbnail.png",
+            "bannerImageURL": "../color-piano/banner.png",
+    	    "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                },
+		{
+		    "name": "Publisher:",
+	            "value": "Lucas Assis Rodrigues"
+		}
+            ],
+            "previewImageURLs": [
+                "../color-piano/preview-1.png"
+            ]
+        } ],
+    "title": "Color Piano",
+    "publisherName": "Lucas Assis Rodrigues",
+    "feedIdentifier": "ColorPiano.io.gituhub.lucasassisro",
+    "formatVersion": "1.0",
+    "contactURL": "https://lucasassisro.github.io"
+}
