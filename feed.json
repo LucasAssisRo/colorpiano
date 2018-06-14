@@ -36,8 +36,8 @@
         "url": "https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/blob/master/emergence/emergence.playgroundbook.zip",
         "publishedDate": "2018-06-14T13:00:00+00:00",
         "lastUpdatedDate": "2018-06-14T13:00:00+00:00",
-        "thumbnailURL": "https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/blob/master/emergence/thumbnail.png",
-        "bannerImageURL": "https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/blob/master/emergence/bannerImage.png",
+        "thumbnailURL": "emergence/thumbnail.png",
+        "bannerImageURL": "bannerImage.png",
         "additionalInformation": [
         {
             "name": "Languages",
@@ -48,8 +48,8 @@
             "value": "Francesco Trusiano"
         }],
         "previewImageURLs": [
-            "https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/blob/master/emergence/preview-1.png",
-            "https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/blob/master/emergence/preview-2.png"
+            "emergence/preview-1.png",
+            "emergence/preview-2.png"
         ]
     }],
     "title": "Naples Mathworks",
