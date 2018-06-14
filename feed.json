@@ -1,31 +1,58 @@
 {
-    "documents": [ {
-            "title": "Color Piano",
-            "overviewSubtitle": "Transform images into music",
-            "description": "Introduction to concepts like fractals, interpolation and sound frequencies.",
-	    "difficultyLevel": "beginner",
-            "contentIdentifier": "io.github.lucasassisro.ColorPiano",
-            "contentVersion": "1.0",
-            "url": "color-piano/color-piano.playgroundbook.zip",
-            "publishedDate": "2018-05-15T13:00:00+00:00",
-            "lastUpdatedDate": "2018-05-15T13:00:00+00:00",
-            "thumbnailURL": "color-piano/thumbnail.png",
-            "bannerImageURL": "color-piano/banner.png",
-    	    "additionalInformation": [
-                {
-                    "name": "Languages",
-                    "value": "English"
-                },
-		{
-		    "name": "Publisher:",
-	            "value": "Lucas Assis Rodrigues"
-		}
-            ],
-            "previewImageURLs": [
-                "color-piano/preview-1.png"
-            ]
-        } ],
-    "title": "Color Piano",
+    "documents": [
+    {
+        "title": "Color Piano",
+        "overviewSubtitle": "Transform images into music",
+        "description": "Introduction to concepts like fractals, interpolation and sound frequencies.",
+        "difficultyLevel": "beginner",
+        "contentIdentifier": "io.github.lucasassisro.ColorPiano",
+        "contentVersion": "1.0",
+        "url": "color-piano/color-piano.playgroundbook.zip",
+        "publishedDate": "2018-05-15T13:00:00+00:00",
+        "lastUpdatedDate": "2018-05-15T13:00:00+00:00",
+        "thumbnailURL": "color-piano/thumbnail.png",
+        "bannerImageURL": "color-piano/banner.png",
+        "additionalInformation": [
+        {
+            "name": "Languages",
+            "value": "English"
+        },
+        {
+            "name": "Publisher:",
+            "value": "Lucas Assis Rodrigues"
+        }],
+        "previewImageURLs": [
+            "color-piano/preview-1.png"
+        ]
+    },
+    {
+        "title": "Emergence",
+        "overviewSubtitle": "An exploration of complexity through Schelling's segregation model.",
+        "description": "This playground is an exploration of the famous segregation model that American economist and Nobel Prize winner Thomas Schelling introduced in the late 60's.",
+        "difficultyLevel": "beginner",
+        "sha512": "726fb70f9777281ad03d9b83f78916a55cb601d68694f5b4f5001276682ab23c42a5b7717eb785e7d52409d58c8918034ac3d509b45700707d84cbc38acf2592",
+        "contentIdentifier": "io.github.lucasassisro.francescoTrusiano.emergence",
+        "contentVersion": "1.0",
+        "url": "https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/blob/master/emergence/emergence.playgroundbook.zip",
+        "publishedDate": "2018-06-14T13:00:00+00:00",
+        "lastUpdatedDate": "2018-06-14T13:00:00+00:00",
+        "thumbnailURL": "https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/blob/master/emergence/thumbnail.png",
+        "bannerImageURL": "https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/blob/master/emergence/bannerImage.png",
+        "additionalInformation": [
+        {
+            "name": "Languages",
+            "value": "English"
+        },
+        {
+            "name": "Publisher:",
+            "value": "Francesco Trusiano"
+        }],
+        "previewImageURLs": [
+            "https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/blob/master/emergence/preview-1.png",
+            "https://github.com/FrancescoTr/WWDC-2018-Scholarship-Submission/blob/master/emergence/preview-2.png"
+        ]
+    }],
+    "title": "Naples Mathworks",
     "publisherName": "Lucas Assis Rodrigues",
     "feedIdentifier": "io.github.lucasassisro",
     "formatVersion": "1.0",
