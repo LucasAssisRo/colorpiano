@@ -18,7 +18,7 @@
             "value": "English"
         },
         {
-            "name": "Publisher:",
+            "name": "Author:",
             "value": "Lucas Assis Rodrigues"
         }],
         "previewImageURLs": [
@@ -26,10 +26,36 @@
         ]
     },
     {
+        "title": "Heart of Mathematics",
+        "overviewSubtitle": "Beautiful shapes in mathematics.",
+        "description": "“Heart of mathematics” is an interactive playground in which you will experience the infinite beauty of the patterns behind times tables, circles and fractals.",
+        "difficultyLevel": "intermediate",
+        "contentIdentifier": "io.github.lucasassisro.wwdc2018.scholarship.hearthofmathematics",
+        "contentVersion": "1.0",
+        "url": "heart-of-mathematics/heart-of-mathematics.playgroundbook.zip",
+        "publishedDate": "2018-06-15T13:00:00+00:00",
+        "lastUpdatedDate": "2018-06-15T13:00:00+00:00",
+        "thumbnailURL": "heart-of-mathematics/thumbnail.png",
+        "bannerImageURL": "bannerImage.png",
+        "additionalInformation": [
+        {
+            "name": "Languages",
+            "value": "English"
+        },
+        {
+            "name": "Author:",
+            "value": "Mattia"
+        }],
+        "previewImageURLs": [
+            "heart-of-mathematics/preview-1.png",
+            "heart-of-mathematics/preview-2.png"
+        ]
+    },
+    {
         "title": "Emergence",
         "overviewSubtitle": "An exploration of complexity through Schelling's segregation model.",
         "description": "This playground is an exploration of the famous segregation model that American economist and Nobel Prize winner Thomas Schelling introduced in the late 60's.",
-        "difficultyLevel": "beginner",
+        "difficultyLevel": "expert",
         "contentIdentifier": "io.github.lucasassisro.francescoTrusiano.emergence",
         "contentVersion": "1.0",
         "url": "emergence/emergence.playgroundbook.zip",
@@ -43,14 +69,15 @@
             "value": "English"
         },
         {
-            "name": "Publisher:",
+            "name": "Author:",
             "value": "Francesco Trusiano"
         }],
         "previewImageURLs": [
             "emergence/preview-1.png",
             "emergence/preview-2.png"
         ]
-    }],
+    }
+    ],
     "title": "Naples Mathworks",
     "publisherName": "Lucas Assis Rodrigues",
     "feedIdentifier": "io.github.lucasassisro",
