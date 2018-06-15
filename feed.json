@@ -14,12 +14,12 @@
         "bannerImageURL": "color-piano/banner.png",
         "additionalInformation": [
         {
-            "name": "Languages",
-            "value": "English"
-        },
-        {
             "name": "Author:",
             "value": "Lucas Assis Rodrigues"
+        },
+        {
+            "name": "Languages",
+            "value": "English"
         }],
         "previewImageURLs": [
             "color-piano/preview-1.png"
@@ -39,12 +39,12 @@
         "bannerImageURL": "bannerImage.png",
         "additionalInformation": [
         {
-            "name": "Languages",
-            "value": "English"
-        },
-        {
             "name": "Author:",
             "value": "Mattia"
+        },
+        {
+            "name": "Languages",
+            "value": "English"
         }],
         "previewImageURLs": [
             "heart-of-mathematics/preview-1.png",
@@ -65,19 +65,18 @@
         "bannerImageURL": "bannerImage.png",
         "additionalInformation": [
         {
-            "name": "Languages",
-            "value": "English"
-        },
-        {
             "name": "Author:",
             "value": "Francesco Trusiano"
+        },
+        {
+            "name": "Languages",
+            "value": "English"
         }],
         "previewImageURLs": [
             "emergence/preview-1.png",
             "emergence/preview-2.png"
         ]
-    }
-    ],
+    }],
     "title": "Naples Mathworks",
     "publisherName": "Lucas Assis Rodrigues",
     "feedIdentifier": "io.github.lucasassisro",
